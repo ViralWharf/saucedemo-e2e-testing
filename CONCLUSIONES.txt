@@ -1,6 +1,6 @@
 Este proyecto de automatización fue una experiencia de aprendizajes increíble,
 durante su desarrollo logré adquirir varios aprendizajes significativos y se han reforzado
-temas tales como la comprensión de armar un proyecto automatización de pruebas desde 0,
+temas tales como la comprensión de armar un proyecto de automatización de pruebas desde 0,
 incluyendo el uso de herramientas como Java, Cucumber y Selenium WebDriver
 y la implementación de un patrón de diseño, en este caso POM, también he aprendido a investigar de
 manera más efectiva, en general realizar el proyecto fue una oportunidad valiosa para mi
