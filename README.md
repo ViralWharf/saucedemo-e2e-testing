@@ -1,4 +1,4 @@
-# Prueba Técnica Devsu: Automatización de Pruebas E2E
+# Prueba Técnica Devsu #1: Opción 2 de automatización de Pruebas E2E
 
 ¡Hola! Este es el proyecto de automatización que incluye el segundo escenario propuesto en la prueba técnica E2E para Devsu.
 
@@ -16,6 +16,7 @@ El Proyecto E2E Testing para Devsu se realizó en la página SauceDemo y es una 
 - Java Development Kit (JDK) 8 o superior.
 - Maven.
 - Google Chrome.
+- El proyecto se creó en IntelliJ, entonces se recomienda usarlo.
 
 ## Ejecución
 
