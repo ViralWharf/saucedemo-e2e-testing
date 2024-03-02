@@ -27,4 +27,8 @@ El proyecto está bajo un patrón de diseño POM, por lo que para ejecutar toda 
 2. Abre y ejecuta el feature [ComprarProductosSatisfactoriamente.feature](src%2Ftest%2Fjava%2Ftest%2FComprarProductosSatisfactoriamente.feature), se ubica en `src/test/java/test/ComprarProductosSatisfactoriamente.feature`.
 3. ¡Comprueba los resultados!
 
+## Resultados!
+<img width="1401" alt="image" src="https://github.com/ViralWharf/saucedemo-e2e-testing/assets/100390417/dbb0a3ad-3900-4a2a-bc20-c919cee8879b">
+
+
 
